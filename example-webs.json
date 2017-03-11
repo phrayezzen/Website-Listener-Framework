@@ -1,0 +1,23 @@
+{
+  "username": "myusername@gmail.com"
+  "password": "mypassword"
+  "smtpServer": "smtp.gmail.com",
+  "sites": {
+    "amazon": [{
+      "URL": "http://www.amazon.com",
+      "path": [{
+        "name": "div",
+        "id": "divId",
+        "class": "divClass"
+      }, {
+        "name": "span",
+        "id": "spanId",
+        "class": "spanClass"
+      }],
+      "target": "$99",
+      "description": "Describe what you're listening to",
+      "recipients": ["5555555555@mms.att.net"],
+      "message": "personal message"
+    }]
+  }
+}
